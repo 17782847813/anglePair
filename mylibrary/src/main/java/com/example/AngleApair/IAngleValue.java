@@ -1,4 +1,4 @@
-package com.example.angleapair;
+package com.example.AngleApair;
 
 public interface IAngleValue extends IAngleFile {
 

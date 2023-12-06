@@ -1,4 +1,4 @@
-package com.example.angleapair;
+package com.example.AngleApair;
 
 import android.content.Context;
 
@@ -21,6 +21,6 @@ public class ExampleInstrumentedTest {
     public void useAppContext() {
         // Context of the app under test.
         Context appContext = InstrumentationRegistry.getInstrumentation().getTargetContext();
-        assertEquals("com.example.angleapair.test", appContext.getPackageName());
+        assertEquals("com.example.AngleApair.test", appContext.getPackageName());
     }
 }

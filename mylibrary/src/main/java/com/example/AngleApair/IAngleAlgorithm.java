@@ -1,7 +1,7 @@
-package com.example.angleapair;
+package com.example.AngleApair;
 
 
-import com.example.angleapair.bean.AngleBean;
+import com.example.AngleApair.bean.AngleBean;
 
 import java.util.List;
 

@@ -1,4 +1,4 @@
-package com.example.angleapair.bean;
+package com.example.AngleApair.bean;
 
 public class AngleBean {
 

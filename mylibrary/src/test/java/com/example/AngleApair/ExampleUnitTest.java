@@ -1,4 +1,4 @@
-package com.example.angleapair;
+package com.example.AngleApair;
 
 import org.junit.Test;
 
